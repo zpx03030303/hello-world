@@ -1,2 +1,2 @@
 # hello-world
-a personal repository
+a new try
